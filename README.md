@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihrpsah
 - 👀 I’m interested in tech, cars, Formula 1 & Cricket.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning JAVA alongside Web Development.
 - 💞️ I’m looking to collaborate on the same
 - 📫 Reach me at smihirp1@gmail.com
 
