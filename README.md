@@ -1,10 +1,10 @@
 # About
 
 
-- 👋 Hi, I’m @mihrpsah
-- 👀 I’m learning core JAVA & DevOps
+- 👋 Hi, I’m @mihrpsah.
+- 👀 I’m learning core JAVA & DevOps.
 - 🌱 I’m skilled in Web Development.
-- 💞️ I’m looking to collaborate on the same
+- 💞️ I’m looking to collaborate on the same.
 - 📫 Reach me at smihirp1@gmail.com
 
 <!---
