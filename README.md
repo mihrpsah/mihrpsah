@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   
    
    ![](https://leetcard.jacoblin.cool/mihrpsah?theme=unicorn)
-![](https://leetcard.jacoblin.cool/mihrpsah?theme=light,unicorn)
+
 
    
 
