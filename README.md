@@ -22,8 +22,8 @@
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
 <img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"/>
-<img align="left" alt="Dart" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png"/>
-<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png"/>
+<img align="left" alt="Dart" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png"/>
+<img align="left" alt="Jupyter" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png"/>
 
 <br><br>
 
